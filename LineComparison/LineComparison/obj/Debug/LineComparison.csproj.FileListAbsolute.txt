@@ -1,0 +1,7 @@
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\bin\Debug\LineComparison.exe.config
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\bin\Debug\LineComparison.exe
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\bin\Debug\LineComparison.pdb
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\obj\Debug\LineComparison.csproj.AssemblyReference.cache
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\obj\Debug\LineComparison.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\obj\Debug\LineComparison.exe
+E:\Visual_Studio\Day-1-1\LineComparison\LineComparison\obj\Debug\LineComparison.pdb
